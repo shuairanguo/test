@@ -1,0 +1,7 @@
+# -*- coding:utf-8 -*-
+import time
+from selenium improt webdriver
+driver = webdriver.Firfox()
+driver.get('http://www.baidu.com')
+time.sleep(1)
+driver.quite()
