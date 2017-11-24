@@ -24,3 +24,6 @@ smtp.login(user,password)
 smtp.sendmail(sender,receiver,msgRoot.as_string())
 smtp.quit()
 
+
+for study git hub
+
